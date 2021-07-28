@@ -4,13 +4,9 @@
     <property name="created">2021-04-08T05:28:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-07-28T08:58:36</property>
+    <property name="modified">2021-07-28T09:57:24</property>
     <property name="originalScheme">Light Lite</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.7" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monaco" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
