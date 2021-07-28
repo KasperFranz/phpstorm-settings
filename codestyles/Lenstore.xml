@@ -1,4 +1,4 @@
-<code_scheme name="Lenstore code standard" version="173">
+<code_scheme name="Lenstore" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="OTHER_INDENT_OPTIONS">
     <value>
@@ -6,11 +6,12 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
-  <DB2CodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -19,11 +20,12 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -32,11 +34,12 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -45,11 +48,26 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="POST_OPT_WRAP_1" value="true" />
+    <option name="IMP_DECLARE_EL_WRAP" value="1" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
+    <option name="ALIAS_CASE" value="1" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -62,11 +80,12 @@
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   </HTMLCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -75,11 +94,12 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -88,11 +108,12 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -119,11 +140,12 @@
     <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -132,11 +154,12 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -145,11 +168,11 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <SqlCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -158,11 +181,12 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="ALIAS_CASE" value="1" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
