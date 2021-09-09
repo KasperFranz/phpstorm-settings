@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*calc.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -14,7 +15,6 @@
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
     <mask>viewProd*</mask>
-    <mask>*calc.php</mask>
     <mask>ecoPayment.tpl</mask>
     <mask>calc.php</mask>
     <mask>changePass.tpl</mask>
@@ -29,5 +29,6 @@
     <mask>*.js</mask>
     <mask>*.tpl</mask>
     <mask>*.php</mask>
+    <mask>*calc.php</mask>
   </component>
 </application>
