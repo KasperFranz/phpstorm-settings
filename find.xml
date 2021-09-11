@@ -1,0 +1,33 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.inc</mask>
+    <mask>*.php4</mask>
+    <mask>*.php5</mask>
+    <mask>*.module</mask>
+    <mask>*.phtml</mask>
+    <mask>*.hphp</mask>
+    <mask>*.ctp</mask>
+    <mask>viewProd*</mask>
+    <mask>ecoPayment.tpl</mask>
+    <mask>calc.php</mask>
+    <mask>changePass.tpl</mask>
+    <mask>changePass.inc.php</mask>
+    <mask>index.inc.php</mask>
+    <mask>*Repository.php</mask>
+    <mask>*repository.php</mask>
+    <mask>*.config</mask>
+    <mask>*blade.php</mask>
+    <mask>§</mask>
+    <mask>*.sql</mask>
+    <mask>*.js</mask>
+    <mask>*.tpl</mask>
+    <mask>*.php</mask>
+    <mask>*calc.php</mask>
+  </component>
+</application>
