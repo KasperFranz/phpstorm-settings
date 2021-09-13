@@ -1,5 +1,4 @@
 <application>
-  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="b08041cf-745a-4593-b71c-b55afac00693" name="PHP 8" home="/opt/homebrew/Cellar/php/8.0.10/bin/php" debugger_id="php.debugger.XDebug" />
@@ -15,7 +14,11 @@
           <configuration_options>
             <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php@7.4/7.4.23/share/php@7.4/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -77,6 +80,7 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
