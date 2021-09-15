@@ -1,4 +1,5 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings" profile="Project Default" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="11" />
     <option name="FONT_FAMILY" value="IBM Plex Mono" />
