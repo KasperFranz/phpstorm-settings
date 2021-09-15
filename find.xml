@@ -27,7 +27,7 @@
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.tpl</mask>
-    <mask>*.php</mask>
     <mask>*calc.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
