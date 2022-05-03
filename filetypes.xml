@@ -6,6 +6,7 @@
       <mapping pattern="hushlogin" type="AUTO_DETECTED" />
       <mapping pattern="exclude.list" type="AUTO_DETECTED" />
       <mapping pattern="gitconfig" type="AUTO_DETECTED" />
+      <mapping pattern="artisan" type="AUTO_DETECTED" />
       <mapping pattern="Bootstrap.php" type="PHP" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
