@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'OrderStatus.php'" />
+    <option name="defaultScopeName" value="Project 'OrderStatus.php'" />
+    <option name="SEARCH_SCOPE" value="Project 'OrderStatus.php'" />
     <mask>viewProd*</mask>
     <mask>ecoPayment.tpl</mask>
     <mask>calc.php</mask>
