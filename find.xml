@@ -28,7 +28,7 @@
     <mask>*.inc</mask>
     <mask>MB-*</mask>
     <mask>*.config</mask>
-    <mask>*.php</mask>
     <mask>*.sql</mask>
+    <mask>*.php</mask>
   </component>
 </application>
