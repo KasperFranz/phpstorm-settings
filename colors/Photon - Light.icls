@@ -3,7 +3,7 @@
     <property name="created">2019-02-22T16:16:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2021-07-28T09:59:40</property>
+    <property name="modified">2022-07-20T11:29:30</property>
     <property name="originalScheme">Photon - Light</property>
   </metaInfo>
   <colors>
@@ -487,17 +487,20 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
+        <option name="BACKGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
+        <option name="BACKGROUND" value="ffa8a8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="f10000" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
