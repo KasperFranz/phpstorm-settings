@@ -30,5 +30,6 @@
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.SQL</mask>
   </component>
 </application>
