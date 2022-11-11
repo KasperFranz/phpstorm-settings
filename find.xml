@@ -29,7 +29,7 @@
     <mask>*.config</mask>
     <mask>*.js</mask>
     <mask>*.SQL</mask>
-    <mask>*.sql</mask>
     <mask>*.php</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
