@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.config" />
     <mask>viewProd*</mask>
     <mask>ecoPayment.tpl</mask>
     <mask>calc.php</mask>
@@ -29,10 +29,10 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>MB-*</mask>
-    <mask>*.config</mask>
     <mask>*.js</mask>
     <mask>*.SQL</mask>
     <mask>*.sql</mask>
     <mask>*.php</mask>
+    <mask>*.config</mask>
   </component>
 </application>
