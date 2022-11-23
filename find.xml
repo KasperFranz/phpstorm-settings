@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>viewProd*</mask>
     <mask>ecoPayment.tpl</mask>
     <mask>calc.php</mask>
@@ -28,8 +29,8 @@
     <mask>MB-*</mask>
     <mask>*.js</mask>
     <mask>*.SQL</mask>
-    <mask>*.sql</mask>
     <mask>*.config</mask>
     <mask>*.php</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
