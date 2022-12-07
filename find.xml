@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>viewProd*</mask>
     <mask>ecoPayment.tpl</mask>
     <mask>calc.php</mask>
@@ -14,7 +14,6 @@
     <mask>*repository.php</mask>
     <mask>*blade.php</mask>
     <mask>§</mask>
-    <mask>*.tpl</mask>
     <mask>*calc.php</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -33,5 +32,6 @@
     <mask>*.sql</mask>
     <mask>*.htaccess</mask>
     <mask>*.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
