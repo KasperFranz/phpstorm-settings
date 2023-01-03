@@ -29,10 +29,10 @@
     <mask>MB-*</mask>
     <mask>*.SQL</mask>
     <mask>*.config</mask>
-    <mask>*.sql</mask>
     <mask>*.htaccess</mask>
     <mask>*.tpl</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
